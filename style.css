@@ -3,7 +3,7 @@
 }
 
 section {
-    margin-top: 0rem;
+    margin-top: 0px;
 }
 
 .nav-link {
@@ -13,3 +13,7 @@ section {
 .white {
     color : #fff !important ;
     }
+
+.jumbotron {
+    background-color: #e2edff;
+}
